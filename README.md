@@ -1,4 +1,4 @@
-# Apis Using Flask
+# Api Using Flask
 this an example for using flask to make APIs 
 
 routes:
